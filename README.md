@@ -9,3 +9,6 @@
 
 **Find Customer Referee**
 > Following is the link https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan&id=sql-i
+
+**Customers Who Never Order**
+> Following is the link https://leetcode.com/problems/customers-who-never-order/description/?envType=study-plan&id=sql-i
