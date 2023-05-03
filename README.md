@@ -6,3 +6,6 @@
 
 **Recyclable and Low Fat Products**
 > Following is the link https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan&id=sql-i
+
+**Find Customer Referee**
+> Following is the link https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan&id=sql-i
