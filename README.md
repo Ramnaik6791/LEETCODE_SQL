@@ -1,9 +1,9 @@
 # LEETCODE_SQL
 
 **Big Countries**
->>+-------------+---------+
->| Column Name | Type    |
 >+-------------+---------+
+| Column Name | Type    |
++-------------+---------+
 | name        | varchar |
 | continent   | varchar |
 | area        | int     |
