@@ -12,3 +12,6 @@
 
 **Customers Who Never Order**
 > Following is the link https://leetcode.com/problems/customers-who-never-order/description/?envType=study-plan&id=sql-i
+
+**Calculate Special Bonus**
+> Following is the link https://leetcode.com/problems/calculate-special-bonus/description/?envType=study-plan&envId=sql-i&plan=sql
