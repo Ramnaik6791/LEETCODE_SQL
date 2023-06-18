@@ -15,3 +15,6 @@
 
 **Calculate Special Bonus**
 > Following is the link https://leetcode.com/problems/calculate-special-bonus/description/?envType=study-plan&envId=sql-i&plan=sql
+
+**Swap Salary**
+> Following is the link https://leetcode.com/problems/swap-salary/description/?envType=study-plan&envId=sql-i&plan=sql
